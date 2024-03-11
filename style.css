@@ -72,3 +72,41 @@ h1{
 	padding: 5px;
 	border-radius: 15px;
 }
+
+.viewGridContainer{
+	width: 100%;
+	display: inline-flex;
+}
+
+.viewLittleButtons{
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+#viewFavouritingButton{
+	width: 100px;
+	height: 100px;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 10px;
+}
+
+#viewBanner{
+	width: 60%;
+	height: 125px;
+	padding: 5px;
+	margin: 5px;
+	float: right;
+	border-radius: 15px;
+}
+
+#viewBox{
+	width: 95%;
+	height: 700px;
+	margin: 15px 2.5% 15px 2.5%;
+	padding: 15px;
+	border-radius: 15px;
+}
