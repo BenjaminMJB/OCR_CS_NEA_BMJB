@@ -28,7 +28,7 @@ h1{
 	border-radius: 25px;
 }
 
-.centerGridItem{
+.centerGridItemSignupPage{
 	width: 450px;
 	height: 100px;
 	background-color:#c2edde;
@@ -37,6 +37,38 @@ h1{
 	border-radius: 15px;
 }
 
-.inCenterGridItem{
+.centerGridItemSecurityQuestions{
+	width: 450px;
+	height: 50px;
+	background-color:#c2edde;
 	margin: auto;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+.centerGridItemQualityOfLife{
+	width: 450px;
+	height: 175px;
+	background-color:#c2edde;
+	margin: auto;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+.centerGridItemLoginPage{
+	width: 450px;
+	height: 100px;
+	background-color:#c2edde;
+	margin: auto;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+.centerGridItemPasswordReset{
+	width: 450px;
+	height: 75px;
+	background-color:#c2edde;
+	margin: auto;
+	padding: 5px;
+	border-radius: 15px;
 }
