@@ -1,3 +1,7 @@
+div{
+	box-sizing: border-box;
+}
+
 .sideBar{
 	height: 100%;
 	width: 0px;
@@ -33,13 +37,15 @@
 }
 
 .openbtn{
+	width: 50px;
+	height: 50px;
 	font-size: 20px;
 	cursor: pointer;
 	background-color: #111;
 	color: white;
-	padding: 10px 15px;
-	border: none;
-	border-radius: 8px;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 5px;
 }
 
 .openbtn:hover{

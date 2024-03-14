@@ -4,15 +4,13 @@ function sideBarNav() {
 	var z = document.getElementById("sideBarButton");
 	console.log("1");
 	if (z.innerHTML === "☰") {
-		x.style.width = "250px";
-		y.style.marginLeft = "250px";
+		x.style.width = "500px";
+		y.style.marginLeft = "500px";
 		z.innerHTML = "X";
-		console.log("2");
 	}
 	else {
 		x.style.width = "0px";
 		y.style.marginLeft = "0px";
 		z.innerHTML = "☰";
-		console.log("3");
 	}
 }
