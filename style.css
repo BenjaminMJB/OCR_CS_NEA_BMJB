@@ -87,12 +87,14 @@ h1{
 	display: inline-flex;
 }
 
-.viewLittleButtons{
+.viewLittleButton{
 	width: 50px;
 	height: 50px;
 	padding: 5px;
 	margin: 5px;
 	border-radius: 5px;
+	margin-right: 100px;
+	background-color: #7cf2c7;
 }
 
 #viewFavouritingButton{

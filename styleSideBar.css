@@ -41,15 +41,16 @@ div{
 	height: 50px;
 	font-size: 20px;
 	cursor: pointer;
-	background-color: #111;
+	background-color: #7cf2c7;
 	color: white;
 	padding: 5px;
 	margin: 5px;
+	border-color: #7cf2c7;
 	border-radius: 5px;
 }
 
 .openbtn:hover{
-	background-color: #444;
+	background-color: #7cf2c7a6;
 }
 
 #main{
